@@ -2,11 +2,11 @@
 
 ---
 
-# 🌍 Local Tourism Guide & Travel Planner
+# 🌍 GEONOMAD(Local Tourism Guide & Travel Planner)
 
 ## 📌 Description
 
-**Local Tourism Guide & Travel Planner** is a web application that helps users discover local destinations, explore events, check weather forecasts, and organize their trips. Users can create and save itineraries, mark destinations as favorites, and share their travel plans. Admins manage destinations, events, and user-generated content to keep the platform updated and reliable.
+**GEONOMAD** is a web application that helps users discover local destinations, explore events, check weather forecasts, and organize their trips. Users can create and save itineraries, mark destinations as favorites, and share their travel plans. Admins manage destinations, events, and user-generated content to keep the platform updated and reliable.
 
 ---
 
